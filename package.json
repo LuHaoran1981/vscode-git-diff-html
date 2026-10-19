@@ -8,7 +8,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuHaoran1981/GitDiffLocal.git"
+    "url": "https://github.com/LuHaoran1981/vscode-git-diff-html-free.git"
   },
   "engines": {
     "vscode": "^1.85.0"
