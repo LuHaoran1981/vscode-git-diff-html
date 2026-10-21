@@ -2,13 +2,13 @@
   "name": "git-diff-html",
   "displayName": "GitDiff HTML",
   "description": "Generate side-by-side HTML diff reports for local and Git repositories, plus a C/C++ color theme.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "symthosm",
   "license": "GPL-3.0-or-later",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuHaoran1981/vscode-git-diff-html-free.git"
+    "url": "https://github.com/LuHaoran1981/vscode-git-diff-html.git"
   },
   "engines": {
     "vscode": "^1.85.0"
